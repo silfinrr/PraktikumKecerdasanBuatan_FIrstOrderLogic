@@ -1,0 +1,1 @@
+# PraktikumKecerdasanBuatan_FIrstOrderLogic
